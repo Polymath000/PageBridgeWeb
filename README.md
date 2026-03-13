@@ -1,1 +1,1 @@
-# QuickNotionPrivacyPolicy
+# QuickNotion
